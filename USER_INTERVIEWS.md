@@ -7,9 +7,9 @@ Each interview was 10–15 minutes. Names/initials used with permission.
 
 ## Interview 1 — May 21, 2026
 
-**Name:** [Use their initials or first name]
-**Role:** Solo founder / indie builder
-**Company stage:** Pre-revenue, no team
+# **Name:** Pranav Kumar Agrawal
+# **Role:** Solo founder
+# **Company stage:** Pre-revenue, no team
 
 ### Direct Quotes
 - "I don't spend a single money on AI tools."
