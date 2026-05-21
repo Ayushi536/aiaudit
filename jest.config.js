@@ -5,7 +5,9 @@ const config = {
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1',
   },
-  transform: {},
+  transform: {
+    '^.+\\.tsx?$': ['ts-jest', { tsconfig: { module: 'commonjs' } }],
+  },
 }
 
 module.exports = config
